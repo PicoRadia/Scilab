@@ -1,4 +1,4 @@
-//25-11-2019 Radia El Hamdouni  cours Méthodes : 1ère séance : scilab
+//25-11-2019 Radia El Hamdouni  cours Méthodes Numériques : 1ère séance : scilab
 
 //Declaration de quelques constantes
     --> %pi
@@ -22,6 +22,19 @@
     
      C:\Users\Surface
     -->ls  //Lister le contenu du rep courant
+    
+    //Variables Boléenne
+    
+    -->%f            //false
+ ans  =
+
+  F
+
+--> %t  //True
+ ans  =
+
+  T
+  
     
     //Nombres complexes
     --> z=2+4*(%i) //declaration nbre complex
